@@ -1,45 +1,63 @@
-# 🏜️ Dubai Desert Safari
+# 🐪 Dubai Desert Safari
 
-A modern **React + Vite** web application that showcases desert safari tours in Dubai.  
-The project focuses on clean UI, smooth navigation, and a simple booking experience.
+A modern React.js web application that showcases desert safari tours in Dubai with a clean UI and smooth user experience.
 
 ---
 
-## 🌐 Live Demo
+## 🌍 Live Demo
 
-👉 **https://mustafacoder365.github.io/Dubai-Desert-Safari/**
+🔗 https://mustafacoder365.github.io/Dubai-Desert-Safari/
 
 ---
 
 ## ✨ Features
 
-- Desert safari tours listing
-- Single tour details page
-- Ratings & reviews
-- Booking section
-- Toast notifications
-- Register form with validation
-- Responsive design
-- Deployed on GitHub Pages
+- 🏜 Desert safari tours listing
+- 📄 Dynamic single tour details page
+- ⭐ Rating & reviews system
+- 💳 Booking card with pricing
+- 🔔 Toast notifications
+- 🔐 Login & Register forms with validation
+- 🌍 Multi-language & currency options (UI ready)
+- 📱 Fully responsive design
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Built With
 
-- React
+- React.js
+- React Router DOM
 - Vite
-- React Router
 - React Toastify
 - Bootstrap Icons
-- CSS
+- CSS3
 
 ---
 
-## 📦 Installation & Run Locally
+## 📸 Screenshots
+
+| Home | Tours |
+|------|-------|
+| ![](./screenshots/home.png) | ![](./screenshots/tours.png) |
+
+| Single Tour | Details |
+|-------------|---------|
+| ![](./screenshots/single-top.png) | ![](./screenshots/single-about.png) |
+
+| Login | Register |
+|-------|----------|
+| ![](./screenshots/login.png) | ![](./screenshots/register.png) |
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/MustafaCoder365/Dubai-Desert-Safari.git
 cd Dubai-Desert-Safari
 npm install
 npm run dev
-```
