@@ -61,3 +61,11 @@ git clone https://github.com/MustafaCoder365/Dubai-Desert-Safari.git
 cd Dubai-Desert-Safari
 npm install
 npm run dev
+
+## 👤 Author
+
+**Mustafa Shakir**
+
+- 🌐 GitHub: https://github.com/MustafaCoder365  
+- 💼 LinkedIn: https://www.linkedin.com/in/mustafa-shakir-840374330  
+- 📧 Email: mustafa1997670@gmail.com
