@@ -51,7 +51,20 @@ A modern React.js web application that showcases desert safari tours in Dubai wi
 ---
 
 ## 📂 Project Structure
-
+Dubai-Desert-Safari/
+│
+├── screenshots/
+├── public/
+│ └── tours/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── data.js
+│ ├── App.jsx
+│ └── main.jsx
+│
+├── vite.config.js
+└── README.md
 ---
 
 ## 🚀 Installation
