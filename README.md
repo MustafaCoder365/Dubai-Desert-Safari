@@ -1,42 +1,45 @@
-# Dubai Desert Safari 🐪
+# 🏜️ Dubai Desert Safari
 
-A React.js web application that showcases desert safari tours in Dubai with a clean UI and smooth user experience.
-
----
-
-## Live Demo 🌍
-
-https://mustafacoder365.github.io/Dubai-Desert-Safari/
+A modern **React + Vite** web application that showcases desert safari tours in Dubai.  
+The project focuses on clean UI, smooth navigation, and a simple booking experience.
 
 ---
 
-## Features
+## 🌐 Live Demo
+
+👉 **https://mustafacoder365.github.io/Dubai-Desert-Safari/**
+
+---
+
+## ✨ Features
 
 - Desert safari tours listing
 - Single tour details page
-- Ratings and reviews
+- Ratings & reviews
 - Booking section
 - Toast notifications
 - Register form with validation
 - Responsive design
+- Deployed on GitHub Pages
 
 ---
 
-## Built With
+## 🛠️ Tech Stack
 
-- React.js
-- React Router DOM
+- React
+- Vite
+- React Router
 - React Toastify
 - Bootstrap Icons
 - CSS
 
 ---
 
-## Installation
+## 📦 Installation & Run Locally
 
 ```bash
 git clone https://github.com/MustafaCoder365/Dubai-Desert-Safari.git
 cd Dubai-Desert-Safari
 npm install
-npm start
+npm run dev
 ```

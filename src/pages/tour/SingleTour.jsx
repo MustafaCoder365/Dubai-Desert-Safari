@@ -37,7 +37,11 @@ export default function SingleTour() {
 
       {/* Image & Booking */}
       <div className="tour-img-wrapper">
-        <img src={tour.image} alt={tour.title} className="tour-img" />
+        <img
+          src={`${import.meta.env.BASE_URL}${tour.image}`}
+          alt={tour.title}
+          className="tour-img"
+        />
         <BookNow priceFrom={tour.priceFrom} />
       </div>
 
@@ -91,7 +95,7 @@ export default function SingleTour() {
         <div className="tour-info-item">
           <div className="tour-info-item-title">
             <i style={{ color: '#8e44ad' }} className="bi bi-clock-history"></i>
-            Duration: 4 - 7 hours
+            Duration: {tour.duration}
           </div>
           <p className="tour-info-item-desc">
             Check availability to see starting times.
